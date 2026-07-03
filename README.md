@@ -22,6 +22,12 @@ ODS focuses on operational diagnostics such as:
 
 Rather than competing with benchmark suites, ODS complements them by helping identify instability, resource exhaustion and runtime anomalies before deploying a model into production.
 
+## Features
+TBD
+
+## Architecture
+TBD
+
 ## Current Status
 
 Project initialization.
@@ -72,6 +78,8 @@ ODS follows a few simple principles:
 
 - Documentation is part of the project.
 
+
+
 ## License
 
 Released under the GNU Affero General Public License v3.0 (AGPL-3.0).
@@ -79,3 +87,10 @@ Released under the GNU Affero General Public License v3.0 (AGPL-3.0).
 ## Project Status
 
 Early development.
+
+
+## Installation
+TBD
+
+## Quick Start
+TBD
