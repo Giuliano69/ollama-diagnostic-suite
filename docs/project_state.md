@@ -1,5 +1,17 @@
 #Updated project context
 
+# la sequenza di sviluppo prevede:
+    • V0.1 → runner “minimal” e recorder “minimal” funzionante (raccolta dati + CSV + log). 
+    • V0.2 → analyzer con diagnosi minimal  (interpretazione)
+    • V0.3 → supporto llama- server o llama-cli (ampliamento del back end)
+    • V0.x → …...
+    • V1.0 → supporto completo a Intel GPU (intel_gpu_top),  
+
+## test previsti per la versione v 0.1
+1. Stessa chat ripetuta (verifica comportamento KV cache)
+2. Nuova sessione ad ogni richiesta, `keep_alive=0` (verifica memory leak)
+
+
 # possibili implementazioni future
 
 ## Aggiunta ai test KV Cache e memory leak, anche di un test con "con differenti quantizzazioni della memoria"

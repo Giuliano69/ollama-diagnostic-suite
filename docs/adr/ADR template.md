@@ -1,13 +1,9 @@
 > ADR Template V 0.1 - Date : 1/07/2026 - first edition 
-> 
-> Un ADR deve  rispondere alla domanda :"perché abbiamo scelto X invece di Y, e cosa ci 
-> costerebbe tornare indietro" — non descrivere cosa fa un modulo (quello è compito del codice 
-> stesso e del README, non di un documento decisionale).
-> Una decisione = un ADR. Se cambiare decisione "costa" 5 minuti, non serve un ADR.
-
 
 # ADR-00X: [Titolo Breve e Chiaro]
-**Stato:** Proposed/Accepted/Superseded | **Data:** 2026-06-04 | **Autore:** PM
+**Status:**                       | **Data:**            | **Autore:**    |
+|---------------------------------|----------------------|----------------|
+|Proposed/Accepted/Superseded     |   2026-07-04         | PM             |
 
 ## 1. Il Contesto / Problema
 [Descrizione della necessità del negozio in 2 righe. Es: Come gestire le caparre per la prenotazione di penne in edizione limitata?]
